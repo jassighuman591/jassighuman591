@@ -1,5 +1,9 @@
 ### Hi there👋, I am Jaswinder Singh
 
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!--
 **jassighuman591/jassighuman591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
