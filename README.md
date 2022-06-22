@@ -2,11 +2,11 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4153](https://github.com/EddieHubCommunity/support/issues/4153) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#1](https://github.com/jaswindersingh2601/jaswindersingh2601/pull/1) in [jaswindersingh2601/jaswindersingh2601](https://github.com/jaswindersingh2601/jaswindersingh2601)
-3. 💪 Opened PR [#1](https://github.com/jaswindersingh2601/jaswindersingh2601/pull/1) in [jaswindersingh2601/jaswindersingh2601](https://github.com/jaswindersingh2601/jaswindersingh2601)
-4. 🗣 Commented on [#1146](https://github.com/EddieHubCommunity/hacktoberfest-practice/issues/1146) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-5. 💪 Opened PR [#1146](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1146) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+1. 🎉 Merged PR [#1](https://github.com/jaswindersingh2601/React-MovieApp/pull/1) in [jaswindersingh2601/React-MovieApp](https://github.com/jaswindersingh2601/React-MovieApp)
+2. 💪 Opened PR [#1](https://github.com/jaswindersingh2601/React-MovieApp/pull/1) in [jaswindersingh2601/React-MovieApp](https://github.com/jaswindersingh2601/React-MovieApp)
+3. ❗️ Opened issue [#4153](https://github.com/EddieHubCommunity/support/issues/4153) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🎉 Merged PR [#1](https://github.com/jaswindersingh2601/jaswindersingh2601/pull/1) in [jaswindersingh2601/jaswindersingh2601](https://github.com/jaswindersingh2601/jaswindersingh2601)
+5. 💪 Opened PR [#1](https://github.com/jaswindersingh2601/jaswindersingh2601/pull/1) in [jaswindersingh2601/jaswindersingh2601](https://github.com/jaswindersingh2601/jaswindersingh2601)
 <!--END_SECTION:activity-->
 
 <!--
