@@ -1,4 +1,4 @@
-### Hi there👋, I am Jaswinder Singh
+### Hi👋, I am Jaswinder Singh
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
