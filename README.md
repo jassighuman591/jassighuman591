@@ -1,25 +1,41 @@
-### Hi👋, I am Jaswinder Singh
+### <h1 align="center">Hi there👋, I'm Jaswinder Singh</a>!</h1>
+![Jawinder Singh](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/jaswindersingh2601/React-MovieApp/pull/2) in [jaswindersingh2601/React-MovieApp](https://github.com/jaswindersingh2601/React-MovieApp)
-2. 💪 Opened PR [#2](https://github.com/jaswindersingh2601/React-MovieApp/pull/2) in [jaswindersingh2601/React-MovieApp](https://github.com/jaswindersingh2601/React-MovieApp)
-3. 🎉 Merged PR [#1](https://github.com/jaswindersingh2601/React-MovieApp/pull/1) in [jaswindersingh2601/React-MovieApp](https://github.com/jaswindersingh2601/React-MovieApp)
-4. 💪 Opened PR [#1](https://github.com/jaswindersingh2601/React-MovieApp/pull/1) in [jaswindersingh2601/React-MovieApp](https://github.com/jaswindersingh2601/React-MovieApp)
-5. ❗️ Opened issue [#4153](https://github.com/EddieHubCommunity/support/issues/4153) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-<!--END_SECTION:activity-->
+#### About Me 😊
+-  I am Web Developer and programmer.
+- 🌱 I’m currently learning Python, Artificial Intelligence and DevOps
+- 💬 Ask me about <i>DevOps</i>, <i>Web-dev</i>, and <i>Programming</i>.
+- 🥅 My Goal for the coming months is to:
+    - 🌠 Contribute more to <i>Open-source</i>.
+    - 🌌 To work with more projects.
+- 📫 How to reach me: 
+  - <i> Twitter, LinkedIn, Instagram </i>, just ping me.
+- ⚡ Fun fact: I love to learn new things and make from it.
 
-<!--
-**jassighuman591/jassighuman591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h3> 🤝 Connect with me: 👇
+</h3>
+  <a href="https://twitter.com/jaswinder2601">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jaswinder-singh-69426223b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://www.instagram.com/jassi.ghuman_01">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jaswindersingh2601&count_private=true&theme=dark&show_icons=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswindersingh2601&theme=dark&count_private=true" />
+</p>
+
+<p align = "center">
+ <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=jaswindersingh2601&theme=xcode">
+</p>  
