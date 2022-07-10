@@ -17,6 +17,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/2) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
+2. 💪 Opened PR [#2](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/2) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
+3. 🎉 Merged PR [#1](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/1) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
+4. 💪 Opened PR [#1](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3/pull/1) in [cryptoverseWeb3/Community.CryptoverseWeb3](https://github.com/cryptoverseWeb3/Community.CryptoverseWeb3)
+5. 🎉 Merged PR [#14](https://github.com/kabir0x23/movie-land/pull/14) in [kabir0x23/movie-land](https://github.com/kabir0x23/movie-land)
 <!--END_SECTION:activity-->
 
 ---
