@@ -17,11 +17,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/CryptoverseWeb3/Support/issues/4) in [CryptoverseWeb3/Support](https://github.com/CryptoverseWeb3/Support)
-2. 🎉 Merged PR [#2](https://github.com/jaswindersingh2601/React-MovieApp/pull/2) in [jaswindersingh2601/React-MovieApp](https://github.com/jaswindersingh2601/React-MovieApp)
-3. 💪 Opened PR [#2](https://github.com/jaswindersingh2601/React-MovieApp/pull/2) in [jaswindersingh2601/React-MovieApp](https://github.com/jaswindersingh2601/React-MovieApp)
-4. 🎉 Merged PR [#1](https://github.com/jaswindersingh2601/React-MovieApp/pull/1) in [jaswindersingh2601/React-MovieApp](https://github.com/jaswindersingh2601/React-MovieApp)
-5. 💪 Opened PR [#1](https://github.com/jaswindersingh2601/React-MovieApp/pull/1) in [jaswindersingh2601/React-MovieApp](https://github.com/jaswindersingh2601/React-MovieApp)
+1. ❗️ Opened issue [#26](https://github.com/CryptoverseWeb3/Cryptoverse/issues/26) in [CryptoverseWeb3/Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
+2. ❗️ Opened issue [#4](https://github.com/CryptoverseWeb3/Support/issues/4) in [CryptoverseWeb3/Support](https://github.com/CryptoverseWeb3/Support)
+3. 🎉 Merged PR [#2](https://github.com/jaswindersingh2601/React-MovieApp/pull/2) in [jaswindersingh2601/React-MovieApp](https://github.com/jaswindersingh2601/React-MovieApp)
+4. 💪 Opened PR [#2](https://github.com/jaswindersingh2601/React-MovieApp/pull/2) in [jaswindersingh2601/React-MovieApp](https://github.com/jaswindersingh2601/React-MovieApp)
+5. 🎉 Merged PR [#1](https://github.com/jaswindersingh2601/React-MovieApp/pull/1) in [jaswindersingh2601/React-MovieApp](https://github.com/jaswindersingh2601/React-MovieApp)
 <!--END_SECTION:activity-->
 
 ---
