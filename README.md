@@ -17,11 +17,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/CryptoverseWeb3/Cryptoverse/pull/27) in [CryptoverseWeb3/Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
-2. 🗣 Commented on [#26](https://github.com/CryptoverseWeb3/Cryptoverse/issues/26) in [CryptoverseWeb3/Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
-3. ❗️ Opened issue [#26](https://github.com/CryptoverseWeb3/Cryptoverse/issues/26) in [CryptoverseWeb3/Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
-4. ❗️ Opened issue [#4](https://github.com/CryptoverseWeb3/Support/issues/4) in [CryptoverseWeb3/Support](https://github.com/CryptoverseWeb3/Support)
-5. 🎉 Merged PR [#2](https://github.com/jaswindersingh2601/React-MovieApp/pull/2) in [jaswindersingh2601/React-MovieApp](https://github.com/jaswindersingh2601/React-MovieApp)
+1. 💪 Opened PR [#5](https://github.com/CryptoverseWeb3/git-github-practice/pull/5) in [CryptoverseWeb3/git-github-practice](https://github.com/CryptoverseWeb3/git-github-practice)
+2. 🎉 Merged PR [#1](https://github.com/jaswindersingh2601/git-github-practice/pull/1) in [jaswindersingh2601/git-github-practice](https://github.com/jaswindersingh2601/git-github-practice)
+3. 💪 Opened PR [#1](https://github.com/jaswindersingh2601/git-github-practice/pull/1) in [jaswindersingh2601/git-github-practice](https://github.com/jaswindersingh2601/git-github-practice)
+4. 💪 Opened PR [#27](https://github.com/CryptoverseWeb3/Cryptoverse/pull/27) in [CryptoverseWeb3/Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
+5. 🗣 Commented on [#26](https://github.com/CryptoverseWeb3/Cryptoverse/issues/26) in [CryptoverseWeb3/Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
 <!--END_SECTION:activity-->
 
 ---
