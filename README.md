@@ -17,6 +17,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#44](https://github.com/CryptoverseWeb3/Cryptoverse/issues/44) in [CryptoverseWeb3/Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
+2. 🎉 Merged PR [#2](https://github.com/jaswindersingh2601/space-classes/pull/2) in [jaswindersingh2601/space-classes](https://github.com/jaswindersingh2601/space-classes)
+3. 💪 Opened PR [#2](https://github.com/jaswindersingh2601/space-classes/pull/2) in [jaswindersingh2601/space-classes](https://github.com/jaswindersingh2601/space-classes)
+4. 🎉 Merged PR [#1](https://github.com/jaswindersingh2601/space-classes/pull/1) in [jaswindersingh2601/space-classes](https://github.com/jaswindersingh2601/space-classes)
+5. 💪 Opened PR [#1](https://github.com/jaswindersingh2601/space-classes/pull/1) in [jaswindersingh2601/space-classes](https://github.com/jaswindersingh2601/space-classes)
 <!--END_SECTION:activity-->
 
 ---
