@@ -2,15 +2,15 @@
 ![Jawinder Singh](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 
 #### About Me 😊
--  I am Web Developer and programmer.
-- 🌱 I’m currently learning Python, Artificial Intelligence and DevOps
+-  I am MERN stack Developer, Python Developer and programmer.
 - 💬 Ask me about <i>DevOps</i>, <i>Web-dev</i>, and <i>Programming</i>.
 - 🥅 My Goal for the coming months is to:
     - 🌠 Contribute more to <i>Open-source</i>.
     - 🌌 To work with more projects.
+    - To learn more tech which lead to increase my personal growth. 
 - 📫 How to reach me: 
   - <i> Twitter, LinkedIn, Instagram </i>, just ping me.
-- ⚡ Fun fact: I love to learn new things and make from it.
+- ⚡ Fun fact: I love anime.
 
 
 ---
