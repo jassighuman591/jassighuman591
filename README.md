@@ -17,11 +17,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#199](https://github.com/thecyberworld/thecyberhub.org/issues/199) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-2. 🗣 Commented on [#263](https://github.com/Clueless-Community/web-ui-kit/issues/263) in [Clueless-Community/web-ui-kit](https://github.com/Clueless-Community/web-ui-kit)
+1. 🗣 Commented on [#112](https://github.com/thecyberworld/thecyberhub.org/issues/112) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+2. 🗣 Commented on [#129](https://github.com/thecyberworld/thecyberhub.org/issues/129) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
 3. 🗣 Commented on [#199](https://github.com/thecyberworld/thecyberhub.org/issues/199) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-4. ❗️ Opened issue [#1](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com/issues/1) in [CryptoverseWeb3/CryptoverseWeb3.com](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com)
-5. ❗️ Opened issue [#44](https://github.com/CryptoverseWeb3/Cryptoverse/issues/44) in [CryptoverseWeb3/Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
+4. 🗣 Commented on [#263](https://github.com/Clueless-Community/web-ui-kit/issues/263) in [Clueless-Community/web-ui-kit](https://github.com/Clueless-Community/web-ui-kit)
+5. 🗣 Commented on [#199](https://github.com/thecyberworld/thecyberhub.org/issues/199) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
 <!--END_SECTION:activity-->
 
 ---
