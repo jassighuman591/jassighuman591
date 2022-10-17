@@ -17,11 +17,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com/issues/1) in [CryptoverseWeb3/CryptoverseWeb3.com](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com)
-2. ❗️ Opened issue [#44](https://github.com/CryptoverseWeb3/Cryptoverse/issues/44) in [CryptoverseWeb3/Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
-3. 🎉 Merged PR [#2](https://github.com/jaswindersingh2601/space-classes/pull/2) in [jaswindersingh2601/space-classes](https://github.com/jaswindersingh2601/space-classes)
-4. 💪 Opened PR [#2](https://github.com/jaswindersingh2601/space-classes/pull/2) in [jaswindersingh2601/space-classes](https://github.com/jaswindersingh2601/space-classes)
-5. 🎉 Merged PR [#1](https://github.com/jaswindersingh2601/space-classes/pull/1) in [jaswindersingh2601/space-classes](https://github.com/jaswindersingh2601/space-classes)
+1. 🗣 Commented on [#199](https://github.com/thecyberworld/thecyberhub.org/issues/199) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+2. 🗣 Commented on [#263](https://github.com/Clueless-Community/web-ui-kit/issues/263) in [Clueless-Community/web-ui-kit](https://github.com/Clueless-Community/web-ui-kit)
+3. 🗣 Commented on [#199](https://github.com/thecyberworld/thecyberhub.org/issues/199) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+4. ❗️ Opened issue [#1](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com/issues/1) in [CryptoverseWeb3/CryptoverseWeb3.com](https://github.com/CryptoverseWeb3/CryptoverseWeb3.com)
+5. ❗️ Opened issue [#44](https://github.com/CryptoverseWeb3/Cryptoverse/issues/44) in [CryptoverseWeb3/Cryptoverse](https://github.com/CryptoverseWeb3/Cryptoverse)
 <!--END_SECTION:activity-->
 
 ---
