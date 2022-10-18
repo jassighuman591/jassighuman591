@@ -17,11 +17,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/developer-student-clubs/resume-builder/issues/7) in [developer-student-clubs/resume-builder](https://github.com/developer-student-clubs/resume-builder)
-2. 💪 Opened PR [#207](https://github.com/thecyberworld/thecyberhub.org/pull/207) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-3. 🗣 Commented on [#112](https://github.com/thecyberworld/thecyberhub.org/issues/112) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-4. 🗣 Commented on [#129](https://github.com/thecyberworld/thecyberhub.org/issues/129) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-5. 🗣 Commented on [#199](https://github.com/thecyberworld/thecyberhub.org/issues/199) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+1. 🗣 Commented on [#4](https://github.com/uday03meh/password-generator/issues/4) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+2. 🗣 Commented on [#7](https://github.com/developer-student-clubs/resume-builder/issues/7) in [developer-student-clubs/resume-builder](https://github.com/developer-student-clubs/resume-builder)
+3. 💪 Opened PR [#207](https://github.com/thecyberworld/thecyberhub.org/pull/207) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+4. 🗣 Commented on [#112](https://github.com/thecyberworld/thecyberhub.org/issues/112) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+5. 🗣 Commented on [#129](https://github.com/thecyberworld/thecyberhub.org/issues/129) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
 <!--END_SECTION:activity-->
 
 ---
