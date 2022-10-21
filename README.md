@@ -17,11 +17,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#243](https://github.com/thecyberworld/thecyberhub.org/pull/243) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-2. 💪 Opened PR [#243](https://github.com/thecyberworld/thecyberhub.org/pull/243) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-3. 🗣 Commented on [#200](https://github.com/thecyberworld/thecyberhub.org/issues/200) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-4. 🗣 Commented on [#207](https://github.com/thecyberworld/thecyberhub.org/issues/207) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-5. 🗣 Commented on [#4](https://github.com/uday03meh/password-generator/issues/4) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+1. 💪 Opened PR [#244](https://github.com/thecyberworld/thecyberhub.org/pull/244) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+2. ❌ Closed PR [#243](https://github.com/thecyberworld/thecyberhub.org/pull/243) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+3. 💪 Opened PR [#243](https://github.com/thecyberworld/thecyberhub.org/pull/243) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+4. 🗣 Commented on [#200](https://github.com/thecyberworld/thecyberhub.org/issues/200) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+5. 🗣 Commented on [#207](https://github.com/thecyberworld/thecyberhub.org/issues/207) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
 <!--END_SECTION:activity-->
 
 ---
