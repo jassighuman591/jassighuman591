@@ -17,11 +17,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#249](https://github.com/thecyberworld/thecyberhub.org/pull/249) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-2. 🗣 Commented on [#247](https://github.com/thecyberworld/thecyberhub.org/issues/247) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+1. 💪 Opened PR [#250](https://github.com/thecyberworld/thecyberhub.org/pull/250) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+2. 💪 Opened PR [#249](https://github.com/thecyberworld/thecyberhub.org/pull/249) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
 3. 🗣 Commented on [#247](https://github.com/thecyberworld/thecyberhub.org/issues/247) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
 4. 🗣 Commented on [#247](https://github.com/thecyberworld/thecyberhub.org/issues/247) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-5. 🗣 Commented on [#246](https://github.com/thecyberworld/thecyberhub.org/issues/246) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+5. 🗣 Commented on [#247](https://github.com/thecyberworld/thecyberhub.org/issues/247) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
 <!--END_SECTION:activity-->
 
 ---
