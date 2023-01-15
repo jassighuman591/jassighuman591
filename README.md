@@ -47,6 +47,7 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswindersingh2601&theme=dark&count_private=true" />
 </p>
 
-<p align = "center">
+<!-- <p align = "center">
  <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=jaswindersingh2601&theme=xcode">
 </p>  
+ -->
